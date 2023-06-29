@@ -1,0 +1,39 @@
+git config --global user.name "leonardo pontes" - configura o nome
+
+git config --global user.email" seu email " - configura o email
+
+git init - inicializa o versionamento
+
+dir - mostra os arquivos
+
+dir -a - mostra todos os arquivos 
+
+clear - limpa as linhas
+
+git status - mostra se arquivos não foram comitados
+
+git add . - rastreia os arquivos
+
+git add -A - rastreia os arquivos
+
+git comiit -m "nome" - adiona a alteração no arquivo
+
+git diff - mostra qual foi a alteração realizada
+
+git log - mostra o historico de commits
+
+git log --oneline - mostra todos os commits em uma linha
+
+git remote add origin https://github.com/LeonardoRiPontes/softwarePi.git
+git branch -M main
+git push -u origin main
+
+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
+
+
+
+
+
+
+
+
